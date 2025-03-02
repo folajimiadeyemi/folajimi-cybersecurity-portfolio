@@ -2,6 +2,8 @@
 
 This folder contains security-related documentation on **Linux file permissions** and **SQL query filtering** to enhance system and database security.  
 
+**Note:** The following files are PDFs and may take a few seconds to load. If they take too long, try reloading the page.  
+
 #### **1. Linux File Permissions Security** (`Linux-File-Permissions-Security.pdf`)  
 - Explains **file permission management** in Linux.  
 - Covers **user roles** (owner, group, others) and **permission types** (read, write, execute).  
